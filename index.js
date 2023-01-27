@@ -1,2 +1,1 @@
-let a=13;
-let b=14;
+const a=14;
